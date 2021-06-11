@@ -15,4 +15,4 @@ deploy:
   target_branch: master
   committer_from_gh: true
   on:
-    branch: dev
+    branch: release
